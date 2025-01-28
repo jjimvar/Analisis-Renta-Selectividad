@@ -1,1 +1,1 @@
-Aquí se aloja todo el código utilizado para el desarrollo de mi TFG del Grado en Análisis Económico (UPO)
+Aquí se aloja todo el código utilizado para analizar el efecto de la renta sobre las calificaciones de los estudiantes Sevillanos en la selectividad de 2023. El estudio sobre esta calificación es fundamental pues condiciona el futuro laboral del estudiantado.
